@@ -295,12 +295,6 @@ This project is intended for educational and learning purposes.
 
 ---
 
-# 👨‍💻 Author
-
-**Mohith Imandi**
-
-- GitHub: https://github.com/mohithimandi
-
 ---
 
 # ⭐ Support
